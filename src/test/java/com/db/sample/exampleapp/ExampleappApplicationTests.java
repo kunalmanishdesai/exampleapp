@@ -8,6 +8,7 @@ class ExampleappApplicationTests {
 
 	@Test
 	void contextLoads() {
+		//Created an empty method
 	}
 
 }
